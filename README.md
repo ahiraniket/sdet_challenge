@@ -60,4 +60,4 @@ The find_fake_bar function implements the algorithm to identify the fake bar. It
 The main function orchestrates the overall process, from finding the fake bar to clicking the correct bar and handling the resulting alert. It prints the number of weighings and the result of each weighing and prompts the user to confirm quitting the WebDriver.
 
 ### Note
-If you encounter any issues or have any questions, please feel free to reach out.
+If you encounter any issues or have any questions, please feel free to reach out at `aaahir@asu.edu`.
